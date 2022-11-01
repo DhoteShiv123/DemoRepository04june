@@ -1,0 +1,97 @@
+2022-10-30 18:21:06,196 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 18:21:35,960 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 18:21:38,228 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 18:26:17,826 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 18:26:22,725 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 18:26:26,274 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 18:26:33,036 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 18:29:51,258 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 18:29:54,684 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 18:29:57,020 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 18:29:59,428 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:07:09,338 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:07:12,846 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:07:15,430 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:07:17,833 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:12:49,446 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:12:52,699 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:12:55,216 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:15:50,390 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:15:53,377 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:15:55,887 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:17:09,916 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:17:13,013 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:17:15,360 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:17:17,802 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:22:27,802 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:22:31,215 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:22:34,003 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:22:36,627 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:28:19,533 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:28:23,462 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:28:25,893 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 19:28:28,120 - Dala Street Framework -INFO - Framework execusion started
+2022-10-30 22:07:20,802 - Dala Street Framework -INFO - Framework execution started
+2022-10-30 22:07:27,016 - Dala Street Framework -INFO - Browser Launched
+2022-10-30 22:07:31,821 - Dala Street Framework -INFO - open url,maximize the window,implicit wait provided
+2022-10-30 22:07:38,419 - Dala Street Framework -INFO - Test case execution started
+2022-10-30 22:07:46,782 - Dala Street Framework -INFO - Test case execution passed
+2022-10-30 22:07:47,077 - Dala Street Framework -INFO - Browser close
+2022-10-30 22:07:47,079 - Dala Street Framework -INFO - Framework execution finished
+2022-10-30 22:07:47,084 - Dala Street Framework -INFO - Framework execution started
+2022-10-30 22:07:49,100 - Dala Street Framework -INFO - Browser Launched
+2022-10-30 22:07:54,174 - Dala Street Framework -INFO - open url,maximize the window,implicit wait provided
+2022-10-30 22:08:00,668 - Dala Street Framework -INFO - Test case execution started
+2022-10-30 22:08:01,087 - Dala Street Framework -INFO - Test case execution passed
+2022-10-30 22:08:01,376 - Dala Street Framework -INFO - Browser close
+2022-10-30 22:08:01,377 - Dala Street Framework -INFO - Framework execution finished
+2022-10-30 22:08:01,382 - Dala Street Framework -INFO - Framework execution started
+2022-10-30 22:08:06,784 - Dala Street Framework -INFO - Browser Launched
+2022-10-30 22:08:11,003 - Dala Street Framework -INFO - open url,maximize the window,implicit wait provided
+2022-10-30 22:08:17,543 - Dala Street Framework -INFO - Test case execution started
+2022-10-30 22:08:17,800 - Dala Street Framework -INFO - Test case execution passed
+2022-10-30 22:08:18,076 - Dala Street Framework -INFO - Browser close
+2022-10-30 22:08:18,076 - Dala Street Framework -INFO - Framework execution finished
+2022-10-30 22:08:18,080 - Dala Street Framework -INFO - Framework execution started
+2022-10-30 22:08:20,062 - Dala Street Framework -INFO - Browser Launched
+2022-10-30 22:08:24,142 - Dala Street Framework -INFO - open url,maximize the window,implicit wait provided
+2022-10-30 22:08:30,640 - Dala Street Framework -INFO - Test case execution started
+2022-10-30 22:09:04,752 - Dala Street Framework -INFO - Test case execution failed
+2022-10-30 22:09:05,370 - Dala Street Framework -INFO - Browser close
+2022-10-30 22:09:05,370 - Dala Street Framework -INFO - Framework execution finished
+2022-11-01 15:18:37,790 - Dala Street Framework -INFO - Framework execution started
+2022-11-01 15:23:53,201 - Dala Street Framework -INFO - Framework execution started
+2022-11-01 15:24:57,196 - org.apache.http.impl.execchain.RetryExec -INFO - I/O exception (java.net.SocketException) caught when processing request to {s}->https://raw.githubusercontent.com:443: Connection reset
+2022-11-01 15:24:57,199 - org.apache.http.impl.execchain.RetryExec -INFO - Retrying request to {s}->https://raw.githubusercontent.com:443
+2022-11-01 15:25:07,175 - Dala Street Framework -INFO - Browser Launched
+2022-11-01 15:25:13,802 - Dala Street Framework -INFO - open url,maximize the window,implicit wait provided
+2022-11-01 15:25:13,819 - Dala Street Framework -INFO - Test case execution started
+2022-11-01 15:25:43,915 - Dala Street Framework -INFO - Test case execution failed
+2022-11-01 15:25:44,682 - Dala Street Framework -INFO - Browser close
+2022-11-01 15:25:44,687 - Dala Street Framework -INFO - Framework execution finished
+2022-11-01 15:25:47,051 - Dala Street Framework -INFO - Framework execution started
+2022-11-01 15:25:49,923 - Dala Street Framework -INFO - Browser Launched
+2022-11-01 15:26:02,886 - Dala Street Framework -INFO - open url,maximize the window,implicit wait provided
+2022-11-01 15:26:02,898 - Dala Street Framework -INFO - Test case execution started
+2022-11-01 15:26:32,993 - Dala Street Framework -INFO - Test case execution failed
+2022-11-01 15:26:33,595 - Dala Street Framework -INFO - Browser close
+2022-11-01 15:26:33,597 - Dala Street Framework -INFO - Framework execution finished
+2022-11-01 15:30:41,518 - Dala Street Framework -INFO - Framework execution started
+2022-11-01 15:30:44,330 - Dala Street Framework -INFO - Browser Launched
+2022-11-01 15:30:51,364 - Dala Street Framework -INFO - open url,maximize the window,implicit wait provided
+2022-11-01 15:30:51,380 - Dala Street Framework -INFO - Test case execution started
+2022-11-01 15:31:21,492 - Dala Street Framework -INFO - Test case execution failed
+2022-11-01 15:31:22,100 - Dala Street Framework -INFO - Browser close
+2022-11-01 15:31:22,102 - Dala Street Framework -INFO - Framework execution finished
+2022-11-01 15:34:09,979 - Dala Street Framework -INFO - Framework execution started
+2022-11-01 15:34:16,418 - Dala Street Framework -INFO - Browser Launched
+2022-11-01 15:34:27,700 - Dala Street Framework -INFO - open url,maximize the window,implicit wait provided
+2022-11-01 15:34:27,714 - Dala Street Framework -INFO - Test case execution started
+2022-11-01 15:34:57,799 - Dala Street Framework -INFO - Test case execution failed
+2022-11-01 15:34:58,000 - Dala Street Framework -INFO - Framework execution finished
+2022-11-01 15:42:22,888 - Dala Street Framework -INFO - Framework execution started
+2022-11-01 15:42:27,246 - Dala Street Framework -INFO - Browser Launched
+2022-11-01 15:42:32,745 - Dala Street Framework -INFO - open url,maximize the window,implicit wait provided
+2022-11-01 15:42:32,759 - Dala Street Framework -INFO - Test case execution started
+2022-11-01 15:42:39,676 - Dala Street Framework -INFO - Test case execution passed
+2022-11-01 15:42:39,679 - Dala Street Framework -INFO - Framework execution finished

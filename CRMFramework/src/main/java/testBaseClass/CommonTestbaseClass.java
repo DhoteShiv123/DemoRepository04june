@@ -68,7 +68,7 @@ public class CommonTestbaseClass {
 	  
 	  logger.info("Browser Launched");
 	   
-	   driver.get("https://www.apps.dalalstreet.ai/login");
+	   driver.get("https://suite8demo.suiteondemand.com/#/Login");
 	   driver.manage().window().maximize();
 	   driver.manage().deleteAllCookies();
 	   driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
@@ -80,8 +80,8 @@ public class CommonTestbaseClass {
 	public void closeBrowser()
 	{
        
-       driver.quit();
-       logger.info("Browser close");
+      // driver.quit();
+      // logger.info("Browser close");
 	}
     
   
