@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="CRMSuite">
-
+<suite name="RegressionSuite">
 <listeners>
        <listener class-name="utility.ListenerSetup"/>
        <listener class-name="utility.ExtentReporterNG"/>
@@ -12,5 +11,5 @@
     <classes>
       <class name="testlayer.LoginTest"/>
     </classes>
-  </test> <!-- CRMTest -->
-</suite> <!-- CRMSuite -->
+  </test> <!-- RegressionTest -->
+</suite> <!-- RegressionSuite -->

@@ -95,3 +95,97 @@
 2022-11-01 15:42:32,759 [main] INFO Dala Street Framework - Test case execution started
 2022-11-01 15:42:39,676 [main] INFO Dala Street Framework - Test case execution passed
 2022-11-01 15:42:39,679 [main] INFO Dala Street Framework - Framework execution finished
+2022-11-01 19:19:53,660 [main] INFO Dala Street Framework - Framework execution started
+2022-11-01 19:19:58,317 [main] INFO Dala Street Framework - Browser Launched
+2022-11-01 19:20:04,786 [main] INFO Dala Street Framework - open url,maximize the window,implicit wait provided
+2022-11-01 19:20:04,804 [main] INFO Dala Street Framework - Test case execution started
+2022-11-01 19:20:12,557 [main] INFO Dala Street Framework - Test case execution passed
+2022-11-01 19:20:12,564 [main] INFO Dala Street Framework - Framework execution finished
+2022-11-02 16:08:33,577 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 16:08:38,495 [main] INFO Dala Street Framework - Browser Launched
+2022-11-02 16:08:38,534 [main] INFO Dala Street Framework - Test case execution started
+2022-11-02 16:08:38,537 [main] INFO Dala Street Framework - Test case execution skipped
+2022-11-02 16:09:07,233 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 16:09:10,382 [main] INFO Dala Street Framework - Browser Launched
+2022-11-02 16:09:10,413 [main] INFO Dala Street Framework - Test case execution started
+2022-11-02 16:09:10,415 [main] INFO Dala Street Framework - Test case execution skipped
+2022-11-02 16:09:24,703 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 16:09:27,678 [main] INFO Dala Street Framework - Browser Launched
+2022-11-02 16:09:27,714 [main] INFO Dala Street Framework - Test case execution started
+2022-11-02 16:09:27,718 [main] INFO Dala Street Framework - Test case execution skipped
+2022-11-02 16:09:46,161 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 16:09:52,606 [main] INFO Dala Street Framework - Browser Launched
+2022-11-02 16:09:52,639 [main] INFO Dala Street Framework - Test case execution started
+2022-11-02 16:09:52,641 [main] INFO Dala Street Framework - Test case execution skipped
+2022-11-02 16:10:00,014 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 16:10:01,658 [main] INFO Dala Street Framework - Browser Launched
+2022-11-02 16:10:01,688 [main] INFO Dala Street Framework - Test case execution started
+2022-11-02 16:10:01,691 [main] INFO Dala Street Framework - Test case execution skipped
+2022-11-02 16:16:33,977 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 16:18:34,779 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 16:18:38,195 [main] INFO Dala Street Framework - Browser Launched
+2022-11-02 16:18:38,224 [main] INFO Dala Street Framework - Test case execution started
+2022-11-02 16:18:38,227 [main] INFO Dala Street Framework - Test case execution skipped
+2022-11-02 16:27:22,549 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 16:27:29,093 [main] INFO Dala Street Framework - Browser Launched
+2022-11-02 16:27:29,127 [main] INFO Dala Street Framework - Test case execution started
+2022-11-02 16:27:29,129 [main] INFO Dala Street Framework - Test case execution skipped
+2022-11-02 16:28:43,882 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 16:28:50,362 [main] INFO Dala Street Framework - Browser Launched
+2022-11-02 16:28:50,401 [main] INFO Dala Street Framework - Test case execution started
+2022-11-02 16:28:50,404 [main] INFO Dala Street Framework - Test case execution skipped
+2022-11-02 16:29:43,549 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 16:29:49,589 [main] INFO Dala Street Framework - Browser Launched
+2022-11-02 16:29:49,623 [main] INFO Dala Street Framework - Test case execution started
+2022-11-02 16:29:49,625 [main] INFO Dala Street Framework - Test case execution skipped
+2022-11-02 16:30:40,469 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 16:30:46,708 [main] INFO Dala Street Framework - Browser Launched
+2022-11-02 16:30:46,742 [main] INFO Dala Street Framework - Test case execution started
+2022-11-02 16:30:46,744 [main] INFO Dala Street Framework - Test case execution skipped
+2022-11-02 16:31:10,262 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 16:31:16,810 [main] INFO Dala Street Framework - Browser Launched
+2022-11-02 16:31:16,844 [main] INFO Dala Street Framework - Test case execution started
+2022-11-02 16:31:16,846 [main] INFO Dala Street Framework - Test case execution skipped
+2022-11-02 16:39:56,814 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 16:40:01,209 [main] INFO Dala Street Framework - Browser Launched
+2022-11-02 16:40:01,241 [main] INFO Dala Street Framework - Test case execution started
+2022-11-02 16:40:01,243 [main] INFO Dala Street Framework - Test case execution skipped
+2022-11-02 16:43:05,412 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 16:43:49,084 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 16:43:59,841 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 16:44:05,756 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 16:48:07,325 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 16:49:43,785 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 16:52:51,640 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 16:52:57,775 [main] INFO Dala Street Framework - Browser Launched
+2022-11-02 16:52:57,800 [main] INFO Dala Street Framework - Test case execution started
+2022-11-02 16:52:57,804 [main] INFO Dala Street Framework - Test case execution skipped
+2022-11-02 17:05:31,121 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 17:10:36,030 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 17:10:43,462 [main] INFO Dala Street Framework - Browser Launched
+2022-11-02 17:10:43,497 [main] INFO Dala Street Framework - Test case execution started
+2022-11-02 17:10:43,499 [main] INFO Dala Street Framework - Test case execution skipped
+2022-11-02 17:13:03,449 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 17:13:09,948 [main] INFO Dala Street Framework - Browser Launched
+2022-11-02 17:13:09,980 [main] INFO Dala Street Framework - Test case execution started
+2022-11-02 17:13:09,982 [main] INFO Dala Street Framework - Test case execution skipped
+2022-11-02 17:20:46,157 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 17:20:50,313 [main] INFO Dala Street Framework - Browser Launched
+2022-11-02 17:20:50,348 [main] INFO Dala Street Framework - Test case execution started
+2022-11-02 17:20:50,352 [main] INFO Dala Street Framework - Test case execution skipped
+2022-11-02 17:25:40,713 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 17:25:44,562 [main] INFO Dala Street Framework - Browser Launched
+2022-11-02 17:25:54,163 [main] INFO Dala Street Framework - open url,maximize the window,implicit wait provided
+2022-11-02 17:25:54,170 [main] INFO Dala Street Framework - Test case execution started
+2022-11-02 17:26:01,374 [main] INFO Dala Street Framework - Test case execution passed
+2022-11-02 17:26:01,378 [main] INFO Dala Street Framework - Framework execution finished
+2022-11-02 17:30:15,148 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 17:30:16,883 [main] INFO Dala Street Framework - Browser Launched
+2022-11-02 17:30:16,896 [main] INFO Dala Street Framework - Test case execution started
+2022-11-02 17:30:16,897 [main] INFO Dala Street Framework - Test case execution skipped
+2022-11-02 17:32:52,134 [main] INFO Dala Street Framework - Framework execution started
+2022-11-02 17:32:55,906 [main] INFO Dala Street Framework - Browser Launched
+2022-11-02 17:33:04,483 [main] INFO Dala Street Framework - open url,maximize the window,implicit wait provided
+2022-11-02 17:33:04,494 [main] INFO Dala Street Framework - Test case execution started
+2022-11-02 17:33:12,508 [main] INFO Dala Street Framework - Test case execution passed
+2022-11-02 17:33:12,512 [main] INFO Dala Street Framework - Framework execution finished

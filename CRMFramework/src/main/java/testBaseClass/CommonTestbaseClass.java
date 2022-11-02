@@ -1,10 +1,5 @@
 package testBaseClass;
 
-
-
-
-
-
 import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
@@ -20,6 +15,7 @@ import org.testng.annotations.Parameters;
 
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import utility.Readconfig;
 
 
 
@@ -68,7 +64,8 @@ public class CommonTestbaseClass {
 	  
 	  logger.info("Browser Launched");
 	   
-	   driver.get("https://suite8demo.suiteondemand.com/#/Login");
+	   Readconfig read = new Readconfig();
+	   driver.get(read.getApplicationURL());
 	   driver.manage().window().maximize();
 	   driver.manage().deleteAllCookies();
 	   driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
